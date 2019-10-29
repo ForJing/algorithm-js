@@ -2,6 +2,8 @@ module.exports = {
   title: "JavaScript算法",
 
   themeConfig: {
+    nav: [{ text: "Github", link: "https://github.com/ForJing/algorithm-js" }],
+
     sidebar: [
       {
         title: "排序",
