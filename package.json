@@ -1,0 +1,21 @@
+{
+  "name": "algorithm-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ForJing/algorithm-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ForJing/algorithm-js/issues"
+  },
+  "homepage": "https://github.com/ForJing/algorithm-js#readme"
+}
